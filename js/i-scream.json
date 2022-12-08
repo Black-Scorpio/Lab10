@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Truffle Tornado",
+      "calories": 500,
+      "type": "ice cream",
+      "ingredients": [
+        "truffle crumbs",
+        "milk chocolate dip",
+        "white chocolate sprinkles"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Lime Leopard",
+      "calories": 300,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "fresh lime juice",
+        "plain full fat yogurt",
+        "sugar"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
